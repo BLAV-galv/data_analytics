@@ -16,3 +16,4 @@ Second I altered a couple tables to calculate geometry from longitude and latitu
 -Tableau
 Several worksheets were created using the data including an analysis of residential propery value distribution by city, number of properties served per brewery, a 2-axis analysis of property value vs distance to nearest brewery, and a geographical representation of Boulder county with a color gradient identifying proximity to brewery by zip code with tooltips.
 Find the completed Tablea dashboard here:
+https://public.tableau.com/views/GalvanizeBoCoProject/Story1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link
